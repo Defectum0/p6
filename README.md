@@ -1,2 +1,1 @@
-# DZ_DPK wpf
-DZ_DPK wpf
+WPF Сидельников Максим
